@@ -11,8 +11,8 @@ public class Vehicle {
         this.cc = cc;
         this.color = color;
     }
-    //Getters
 
+    //Getters
     public String getModel() {
         return model;
     }
